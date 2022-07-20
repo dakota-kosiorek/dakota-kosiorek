@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DMKosiorek, but just Dakota is fine
+- 👋 Hi, I’m @dakota-kosiorek, but just Dakota is fine
 - 👀 I’m interested in programming, games, and biology
 - 🌱 I’m currently a college student going for my Bioinformatics and Computational Biology bachelor's
 - 💞️ I’m looking to collaborate on anything really. I just like working on projects, expecially things related to web design or python.
